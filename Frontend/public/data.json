@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Disney World Trip",
+    "img": "https://thepointsguy.global.ssl.fastly.net/us/originals/2020/12/DisneyWorld-castle.jpg",
+    "location": "Orlando, FL",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "France",
+    "img": "https://i.natgeofe.com/k/04665f4a-3f8d-4b62-8ca3-09ce7dfc5a20/france-eiffel-tower_square.jpg",
+    "location": "Western Europe",
+    "description": "....",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter Set Tour",
+    "img": "https://www.getyourguide.com/cdn/img/tour/54b7e542042c8.jpeg/98.jpg",
+    "location": "Watford, UK in London",
+    "description": "....",
+    "price": 100
+  },
+  {
+    "id": 4,
+    "name": "All-Inclusive Resort",
+    "img": "https://www.kayak.com/rimg/himg/a8/8e/e0/leonardo-2679097-HDR22_O-243170.jpg?width=1366&height=768&crop=true",
+    "location": "Cancun in Mexico",
+    "description": "....",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "name": "Cruise",
+    "img": "https://www.usnews.com/object/image/0000018b-d925-dafe-a7ab-fd2540190001/new-main-image-icon-of-the-seas-royal-caribbean-international.jpg?update-time=1700155178582&size=responsive640",
+    "location": "Departs from Orlando, FL",
+    "description": "....",
+    "price": 100
+  },
+  {
+    "id": 6,
+    "name": "",
+    "location": "",
+    "description": "....",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "name": "",
+    "location": "",
+    "description": "....",
+    "price": 100
+  },
+  {
+    "id": 8,
+    "name": "",
+    "location": "",
+    "description": "....",
+    "price": 100
+  }
+]

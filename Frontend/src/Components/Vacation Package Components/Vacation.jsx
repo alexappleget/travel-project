@@ -68,7 +68,7 @@ function BookNow({ setBookNow }) {
   const handleCustomer = async () => {
     try {
       const body = { firstname, lastname, email, phone };
-      const res = await axios.post("http://localhost:5174/customers", body, {
+      const res = await axios.post("https://travel-project-khi7.onrender.com/customers", body, {
         headers: { "Content-Type": "application/json" },
       });
 
@@ -81,7 +81,7 @@ function BookNow({ setBookNow }) {
   //Email data
   const handleEmail = async () => {
     try {
-      await axios.post("http://localhost:5174/send-email", {
+      await axios.post("https://travel-project-khi7.onrender.com/send-email", {
         recipientEmail: email, //This will be whatever email they put into the input field
       });
       setEmailSent(true);

@@ -8,7 +8,9 @@ export default function VacationPackages() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await axios.get("http://localhost:5174/vacations"); // change back to /data.json if this doesnt work
+        const res = await axios.get(
+          "https://travel-project-khi7.onrender.com/vacations"
+        ); // change back to /data.json if this doesnt work
         setVacations(res.data);
         console.log(res.data);
       } catch (error) {
